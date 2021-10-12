@@ -4,7 +4,7 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
-"wad" "C:/Users/Sylwia/Desktop/QuakeDev/wads/prototype_1_3.wad"
+"wad" "C:/QuakeDev/wads/prototype_1_3.wad"
 // brush 0
 {
 ( -448 -64 0 ) ( -448 -64 -1 ) ( -448 -63 0 ) 128_grey_2 [ 0 1.0000000000000002 0 64 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
@@ -755,6 +755,76 @@
 }
 // entity 1
 {
+"classname" "info_player_deathmatch"
+"origin" "-368 -128 56"
+}
+// entity 2
+{
+"classname" "info_player_deathmatch"
+"origin" "-368 -3280 56"
+}
+// entity 3
+{
+"classname" "info_player_deathmatch"
+"origin" "2816 -1456 504"
+}
+// entity 4
+{
+"classname" "info_player_deathmatch"
+"origin" "2928 640 56"
+}
+// entity 5
+{
+"classname" "info_player_deathmatch"
+"origin" "-288 -1648 56"
+}
+// entity 6
+{
+"classname" "info_player_deathmatch"
+"origin" "2016 -2896 56"
+}
+// entity 7
+{
+"classname" "item_armor2"
+"origin" "2176 -1968 32"
+}
+// entity 8
+{
+"classname" "item_armor1"
+"origin" "2288 -1968 32"
+}
+// entity 9
+{
+"classname" "item_health"
+"origin" "2064 -2096 32"
+}
+// entity 10
+{
+"classname" "item_health"
+"origin" "2144 -2096 32"
+}
+// entity 11
+{
+"classname" "weapon_grenadelauncher"
+"origin" "2272 -2080 32"
+}
+// entity 12
+{
+"classname" "weapon_nailgun"
+"origin" "720 240 32"
+}
+// entity 13
+{
+"classname" "item_health"
+"origin" "-672 -2736 32"
+}
+// entity 14
+{
+"classname" "item_health"
+"origin" "-608 -2736 32"
+}
+// entity 15
+{
 "classname" "info_player_start"
-"origin" "-96 -80 56"
+"origin" "-400 400 56"
 }
