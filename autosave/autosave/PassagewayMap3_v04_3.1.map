@@ -3062,6 +3062,24 @@
 ( 784 -1440 32 ) ( 784 -1440 33 ) ( 783 -1440 32 ) shelf_128b [ -1 3.387880961136568e-16 0 -16 ] [ 0 0 -1 0 ] 0 1 1
 ( 832 -1056 16 ) ( 832 -1056 17 ) ( 832 -1055 16 ) shelf_128b [ 3.9429924734491454e-16 0.9999999999999998 0 -64 ] [ 0 0 -1 0 ] 0 1 1
 }
+// brush 267
+{
+( 144 1360 0 ) ( 144 1361 0 ) ( 144 1360 1 ) istn3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 160 1360 0 ) ( 160 1360 1 ) ( 161 1360 0 ) istn3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 160 1360 0 ) ( 161 1360 0 ) ( 160 1361 0 ) istn3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 272 1504 16 ) ( 272 1505 16 ) ( 273 1504 16 ) istn3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 272 1504 16 ) ( 273 1504 16 ) ( 272 1504 17 ) istn3 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 368 1504 16 ) ( 368 1504 17 ) ( 368 1505 16 ) istn3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 268
+{
+( 144 992 0 ) ( 144 993 0 ) ( 144 992 1 ) __TB_empty [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 160 992 0 ) ( 160 992 1 ) ( 161 992 0 ) __TB_empty [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 160 992 0 ) ( 161 992 0 ) ( 160 993 0 ) __TB_empty [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 272 1136 16 ) ( 272 1137 16 ) ( 273 1136 16 ) __TB_empty [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 272 1136 16 ) ( 273 1136 16 ) ( 272 1136 17 ) __TB_empty [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 368 1136 16 ) ( 368 1136 17 ) ( 368 1137 16 ) __TB_empty [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
 }
 // entity 1
 {
@@ -3551,4 +3569,355 @@
 "classname" "light"
 "origin" "400 -544 176"
 "angle" "90"
+}
+// entity 86
+{
+"classname" "light"
+"origin" "728 -248 552"
+}
+// entity 87
+{
+"classname" "light"
+"origin" "744 -72 552"
+}
+// entity 88
+{
+"classname" "light"
+"origin" "376 -536 552"
+}
+// entity 89
+{
+"classname" "light"
+"origin" "312 -712 552"
+}
+// entity 90
+{
+"classname" "light"
+"origin" "-24 -104 552"
+}
+// entity 91
+{
+"classname" "light"
+"origin" "360 216 552"
+}
+// entity 92
+{
+"classname" "light"
+"origin" "216 -216 88"
+}
+// entity 93
+{
+"classname" "light"
+"origin" "392 -72 120"
+}
+// entity 94
+{
+"classname" "light"
+"origin" "472 -232 152"
+}
+// entity 95
+{
+"classname" "light"
+"origin" "1016 -72 472"
+}
+// entity 96
+{
+"classname" "light"
+"origin" "1000 -248 456"
+}
+// entity 97
+{
+"classname" "light"
+"origin" "1224 -168 472"
+}
+// entity 98
+{
+"classname" "light"
+"origin" "1944 -24 136"
+}
+// entity 99
+{
+"classname" "light"
+"origin" "1944 -312 136"
+}
+// entity 100
+{
+"classname" "light"
+"origin" "1480 -328 232"
+}
+// entity 101
+{
+"classname" "light"
+"origin" "1496 8 232"
+}
+// entity 102
+{
+"classname" "light"
+"origin" "1432 -360 136"
+}
+// entity 103
+{
+"classname" "light"
+"origin" "1256 -504 136"
+}
+// entity 104
+{
+"classname" "light"
+"origin" "1256 -872 136"
+}
+// entity 105
+{
+"classname" "light"
+"origin" "1432 -1208 136"
+}
+// entity 106
+{
+"classname" "light"
+"origin" "1432 -1320 184"
+}
+// entity 107
+{
+"classname" "light"
+"origin" "1272 -1320 184"
+}
+// entity 108
+{
+"classname" "light"
+"origin" "1576 -1400 136"
+}
+// entity 109
+{
+"classname" "light"
+"origin" "1576 -1736 152"
+}
+// entity 110
+{
+"classname" "light"
+"origin" "1112 -1704 136"
+}
+// entity 111
+{
+"classname" "light"
+"origin" "1096 -1368 136"
+}
+// entity 112
+{
+"classname" "light"
+"origin" "696 -1704 120"
+}
+// entity 113
+{
+"classname" "light"
+"origin" "840 -1256 168"
+}
+// entity 114
+{
+"classname" "light"
+"origin" "696 -1336 168"
+}
+// entity 115
+{
+"classname" "light"
+"origin" "776 -1144 136"
+}
+// entity 116
+{
+"classname" "light"
+"origin" "584 -808 136"
+}
+// entity 117
+{
+"classname" "light"
+"origin" "312 -696 136"
+}
+// entity 118
+{
+"classname" "light"
+"origin" "456 -584 136"
+}
+// entity 119
+{
+"classname" "light"
+"origin" "1256 168 152"
+}
+// entity 120
+{
+"classname" "light"
+"origin" "1432 472 136"
+}
+// entity 121
+{
+"classname" "light"
+"origin" "1432 856 136"
+}
+// entity 122
+{
+"classname" "light"
+"origin" "1592 1240 136"
+}
+// entity 123
+{
+"classname" "light"
+"origin" "1352 1496 136"
+}
+// entity 124
+{
+"classname" "light"
+"origin" "1256 1000 184"
+}
+// entity 125
+{
+"classname" "light"
+"origin" "1416 1000 200"
+}
+// entity 126
+{
+"classname" "light"
+"origin" "1096 1320 168"
+}
+// entity 127
+{
+"classname" "light"
+"origin" "1096 1176 184"
+}
+// entity 128
+{
+"classname" "light"
+"origin" "728 1336 136"
+}
+// entity 129
+{
+"classname" "light"
+"origin" "296 1336 152"
+}
+// entity 130
+{
+"classname" "light"
+"origin" "-40 1160 152"
+}
+// entity 131
+{
+"classname" "light"
+"origin" "-392 1336 152"
+}
+// entity 132
+{
+"classname" "light"
+"origin" "-600 1176 184"
+}
+// entity 133
+{
+"classname" "light"
+"origin" "-600 1320 184"
+}
+// entity 134
+{
+"classname" "light"
+"origin" "-808 1608 152"
+}
+// entity 135
+{
+"classname" "light"
+"origin" "-1144 1608 152"
+}
+// entity 136
+{
+"classname" "light"
+"origin" "-1352 1384 152"
+}
+// entity 137
+{
+"classname" "light"
+"origin" "-1352 968 152"
+}
+// entity 138
+{
+"classname" "light"
+"origin" "-856 728 184"
+}
+// entity 139
+{
+"classname" "light"
+"origin" "-712 760 184"
+}
+// entity 140
+{
+"classname" "light"
+"origin" "-552 616 152"
+}
+// entity 141
+{
+"classname" "light"
+"origin" "-584 376 152"
+}
+// entity 142
+{
+"classname" "light"
+"origin" "-136 184 152"
+}
+// entity 143
+{
+"classname" "light"
+"origin" "-152 -56 152"
+}
+// entity 144
+{
+"classname" "light"
+"origin" "907.314 -80 152"
+"angle" "225"
+}
+// entity 145
+{
+"classname" "light"
+"origin" "920 -248 152"
+}
+// entity 146
+{
+"classname" "light"
+"origin" "1224 -88 168"
+}
+// entity 147
+{
+"classname" "light"
+"origin" "1224 -232 168"
+}
+// entity 148
+{
+"classname" "light"
+"origin" "1464 -168 120"
+}
+// entity 149
+{
+"classname" "light"
+"origin" "424 -232 104"
+}
+// entity 150
+{
+"classname" "light"
+"origin" "264 -216 56"
+}
+// entity 151
+{
+"classname" "light"
+"origin" "440 -72 72"
+}
+// entity 152
+{
+"classname" "light"
+"origin" "-920 1128 168"
+}
+// entity 153
+{
+"classname" "light"
+"origin" "-1016 1224 104"
+}
+// entity 154
+{
+"classname" "light"
+"origin" "-1064 1144 120"
+}
+// entity 155
+{
+"classname" "light"
+"origin" "-1032 1288 72"
 }

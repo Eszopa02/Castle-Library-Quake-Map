@@ -3552,3 +3552,118 @@
 "origin" "400 -544 176"
 "angle" "90"
 }
+// entity 86
+{
+"classname" "light"
+"origin" "728 -248 552"
+}
+// entity 87
+{
+"classname" "light"
+"origin" "744 -72 552"
+}
+// entity 88
+{
+"classname" "light"
+"origin" "376 -536 552"
+}
+// entity 89
+{
+"classname" "light"
+"origin" "312 -712 552"
+}
+// entity 90
+{
+"classname" "light"
+"origin" "-24 -104 552"
+}
+// entity 91
+{
+"classname" "light"
+"origin" "360 216 552"
+}
+// entity 92
+{
+"classname" "light"
+"origin" "216 -216 88"
+}
+// entity 93
+{
+"classname" "light"
+"origin" "392 -72 120"
+}
+// entity 94
+{
+"classname" "light"
+"origin" "472 -232 152"
+}
+// entity 95
+{
+"classname" "light"
+"origin" "1016 -72 472"
+}
+// entity 96
+{
+"classname" "light"
+"origin" "1000 -248 456"
+}
+// entity 97
+{
+"classname" "light"
+"origin" "1224 -168 472"
+}
+// entity 98
+{
+"classname" "light"
+"origin" "1944 -24 136"
+}
+// entity 99
+{
+"classname" "light"
+"origin" "1944 -312 136"
+}
+// entity 100
+{
+"classname" "light"
+"origin" "1480 -328 232"
+}
+// entity 101
+{
+"classname" "light"
+"origin" "1496 8 232"
+}
+// entity 102
+{
+"classname" "light"
+"origin" "1432 -360 136"
+}
+// entity 103
+{
+"classname" "light"
+"origin" "1256 -504 136"
+}
+// entity 104
+{
+"classname" "light"
+"origin" "1256 -872 136"
+}
+// entity 105
+{
+"classname" "light"
+"origin" "1432 -1208 136"
+}
+// entity 106
+{
+"classname" "light"
+"origin" "1432 -1320 184"
+}
+// entity 107
+{
+"classname" "light"
+"origin" "1576 -1352 168"
+}
+// entity 108
+{
+"classname" "light"
+"origin" "1272 -1320 184"
+}
